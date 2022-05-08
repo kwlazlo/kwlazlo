@@ -1,13 +1,15 @@
-### Hi there 👋
+<h3 style="text-align:left;">### Hi there 👋</h3>
+</br>
+<p style="text-align:left;">I'm a Computer Science student</p>
+</br></br>
+<p style="text-align:left;">NOW</p>
+</br>
+<p style="text-align:left;">✨ Crafting GameRent web application</p>
+<p style="text-align:left;">😵 Preparing for PHP exam at college</p>
+</br></br>
+<p style="text-align:left;">BIO</p>
+</br>
+<p style="text-align:left;">🏢 I'm currently searching internship or job in Java.</p>
+<p style="text-align:left;">⚙️  I use daily: .java, .py, .js, .html, .css</p>
+<p style="text-align:left;">🌱 Learning all about Spring Boot and React</p>
 
-I'm a Computer Science student in Cracow, Poland.
-
-NOW
-✨ Crafting GameRent web application 
-😵 Preparing for PHP exam at college   
-
-
-BIO
-🏢 I'm currently searching internship or job in Java. 
-⚙️  I use daily: .java, .py, .js, .html, .css
-🌱 Learning all about Spring Boot and React  
