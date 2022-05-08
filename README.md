@@ -5,7 +5,7 @@
 <p style="text-align:left;">NOW</p>
 </br>
 <p style="text-align:left;">✨ Crafting GameRent web application</p>
-<p style="text-align:left;">😵 Preparing for PHP exam at college</p>
+<p style="text-align:left;">👨🏻‍💻 Preparing for CCNA certification</p>
 </br></br>
 <p style="text-align:left;">BIO</p>
 </br>
