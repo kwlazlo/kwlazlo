@@ -1,6 +1,6 @@
 <h3 style="text-align:left;">### Hi there 👋</h3>
 </br>
-<p style="text-align:left;">I'm a Computer Science student</p>
+<h3 style="text-align:left;">I'm a Computer Science student</h3>
 </br></br>
 <p style="text-align:left;">NOW</p>
 </br>
