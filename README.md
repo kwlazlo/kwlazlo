@@ -5,7 +5,7 @@
 <p style="text-align:left;">NOW</p>
 </br>
 <p style="text-align:left;">✨ GameRent Web Application - Work in Progress</p>
-<p style="text-align:left;">👨🏻‍💻 Preparing for CCNA certification</p>
+
 </br></br>
 <p style="text-align:left;">BIO</p>
 </br>
