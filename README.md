@@ -2,9 +2,7 @@
 </br>
 <h3 style="text-align:left;">I'm a Computer Science student</h3>
 </br></br>
-<p style="text-align:left;">NOW</p>
-</br>
-<p style="text-align:left;">✨ GameRent Web Application - Work in Progress</p>
+
 
 </br></br>
 <p style="text-align:left;">BIO</p>
